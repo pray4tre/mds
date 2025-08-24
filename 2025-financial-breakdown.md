@@ -1,3 +1,5 @@
+# 2025 Financial Breakdown
+
 ## 25/25/15/35 Rule to Follow
 **25%** - Retirement & Investments (15-20% 401k/IRA + 5-10% taxable brokerage)
 **25%** - Fixed Costs (Housing, transportation, insurance, debt payments)
